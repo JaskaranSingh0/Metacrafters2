@@ -54,7 +54,7 @@ Once the contract is deployed, you can interact with it by copying the address a
 ## Authors
 
 Jaskaran Singh
-[@Jaskaran_990]([https://twitter.com/Jaskaran_990])
+[@Jaskaran_990](https://twitter.com/Jaskaran_990)
 
 
 ## License
